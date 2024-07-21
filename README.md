@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joaquín</h1>
-<h3 align="center">A passionate frontend developer from Ecuador.</h3>
+<h3 align="center">I'm learner yet.</h3>
 
 - 🔭 I’m currently working on **Python**
 
