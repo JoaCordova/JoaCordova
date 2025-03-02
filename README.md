@@ -1,9 +1,16 @@
 <div align="center">
-  <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/joaquincordovapadilla/">Joaquín</a> 👋</h1>
+  <h1 align="center">Hi! I'm <a href="https://www.linkedin.com/in/joaquincordovapadilla/">Joaquín</a> 👋</h1>
 </div>
 
-## Sobre mí
-- Hago proyectos pequeños enfocados en herramientas que me ayuden en mi trabajo como profesor.
+## About me
+- 💼I work on small projects focused on tools that help me in my job as a teacher.
+
+**Languages and Tools:**
+
+<p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="45" style="vertical-align:down; margin:4px" alt="python">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="45" style="vertical-align:down; margin:4px" alt="javascript">
+</p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
