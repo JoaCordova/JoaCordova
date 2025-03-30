@@ -6,6 +6,7 @@ I learn on Front-end development and web designing.
 ## About me
 - 💼 I work on small projects focused on tools that help me in my job as a teacher.
 - 🐍 For non-web design projects, I’m exploring Python.
+
 **Languages and Tools:**
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="45" style="vertical-align:down; margin:4px" alt="python">
