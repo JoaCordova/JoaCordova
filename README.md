@@ -10,6 +10,7 @@ I learn on Front-end development and web designing.
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="45" style="vertical-align:down; margin:4px" alt="python">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="45" style="vertical-align:down; margin:4px" alt="javascript">
 </p>
+
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
   <a href="https://github.com/JoaCordova/">
