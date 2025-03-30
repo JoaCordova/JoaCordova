@@ -2,6 +2,7 @@
   <h1 align="center">Hi! I'm <a href="https://www.linkedin.com/in/joaquincordovapadilla/">Joaquín</a> 👋</h1>
 </div>
 I learn on Front-end development and web designing. 
+
 ## About me
 - 💼 I work on small projects focused on tools that help me in my job as a teacher.
 - 🐍 For non-web design projects, I’m exploring Python.
