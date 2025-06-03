@@ -1,17 +1,19 @@
 <div align="center">
   <h1 align="center">Hi! I'm <a href="https://www.linkedin.com/in/joaquincordovapadilla/">Joaquín</a> 👋</h1>
 </div>
-I learn on Front-end development and web designing. 
+Front-end development and web designing. 
 
 ## About me
-- 💼 I work on small projects focused on tools that help me in my job as a teacher.
+- 💼 I work on projects focused on tools that help me in my job as a teacher.
 - 🐍 For non-web design projects, I’m exploring Python.
 
 **Languages and Tools:**
-<p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="45" style="vertical-align:down; margin:4px" alt="python">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="45" style="vertical-align:down; margin:4px" alt="javascript">
-</p>
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="45" style="vertical-align: middle; margin: 4px;" alt="python">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="45" style="vertical-align: middle; margin: 4px;" alt="javascript">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="45" style="vertical-align: middle; margin: 4px;" alt="react">
+</div>
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
